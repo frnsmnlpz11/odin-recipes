@@ -1,6 +1,9 @@
+/* General */
 body {
     font-family: Verdana, sans-serif;
 }
+
+/* Homepage  */
 
 #main,
 #main2 {
@@ -18,6 +21,8 @@ body {
 #main2 {
     color: blue;
 }
+
+/* for Image */
 
 .center {
     display: block;
