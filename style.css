@@ -34,6 +34,8 @@ body {
 
 #main3 {
     text-align: center;
+    margin: 20px;
+
 }
 
 .text-border {
@@ -47,6 +49,9 @@ body {
     text-justify: inter-word;
 }
 
+li {
+    margin: 10px;
+}
 
 
 
