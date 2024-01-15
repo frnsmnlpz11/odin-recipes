@@ -29,3 +29,21 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Recipe pages */
+
+#main3 {
+    text-align: center;
+}
+
+.text-border {
+    margin: auto;
+    border: 2px solid lightgray;
+    border-radius: 12px;
+    width: 40%;
+    padding: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
