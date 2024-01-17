@@ -6,7 +6,8 @@ body {
 /* Homepage  */
 
 #main,
-#main2 {
+#main2,
+h3 {
     text-align: center;
 }
 
