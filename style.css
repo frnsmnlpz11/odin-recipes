@@ -1,13 +1,12 @@
 /* General */
 body {
-    font-family: Verdana, sans-serif;
+    font-family: "Verdana", Arial, sans-serif;
 }
 
 /* Homepage  */
 
 #main,
-#main2,
-h3 {
+#main2 {
     text-align: center;
 }
 
@@ -33,10 +32,13 @@ h3 {
 
 /* Recipe pages */
 
-#main3 {
+#content {
     text-align: center;
     margin: 20px;
+}
 
+.components {
+    margin-left: 10px;
 }
 
 .text-border {
@@ -50,9 +52,18 @@ h3 {
     text-justify: inter-word;
 }
 
+.adjust {
+    line-height: 25px;
+}
+
+p.adjust {
+    margin: 30px;
+}
+
 li {
     margin: 10px;
 }
+
 
 
 
