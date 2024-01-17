@@ -5,8 +5,7 @@ body {
 
 /* Homepage  */
 
-#main,
-#main2 {
+#main {
     text-align: center;
 }
 
@@ -18,7 +17,7 @@ body {
     color: red;
 }
 
-#main2 {
+#main.head {
     color: blue;
 }
 
