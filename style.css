@@ -37,7 +37,7 @@ body {
 }
 
 .components {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .text-border {
@@ -46,7 +46,7 @@ body {
     border: 2px solid lightgray;
     border-radius: 12px;
     width: 40%;
-    padding: 5px;
+    padding: 15px;
 }
 
 .adjust {
@@ -58,7 +58,7 @@ p.adjust {
 }
 
 li {
-    margin: 10px;
+    margin: 20px;
 }
 
 
