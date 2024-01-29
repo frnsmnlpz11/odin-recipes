@@ -47,6 +47,7 @@ body {
     border-radius: 12px;
     width: 40%;
     padding: 15px;
+    box-sizing: border-box;
 }
 
 .adjust {
