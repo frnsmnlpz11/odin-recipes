@@ -47,13 +47,17 @@ body {
 }
 
 .text-border {
-    background-color: lightgray;
+    background-color: #F9EFDB;
     margin: auto;
-    border: 2px solid lightgray;
+    border: none;
     border-radius: 12px;
     width: 40%;
     padding: 15px;
     box-sizing: border-box;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .adjust {
