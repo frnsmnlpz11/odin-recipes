@@ -36,7 +36,8 @@ h2 {
 /* Recipe pages */
 
 #content {
-    color: black;
+    text-align: center;
+    margin: 30px;
 }
 
 .components {
@@ -71,21 +72,32 @@ li {
 
 /* Links */
 
+.center-links,
 .links,
-#content,
-.center-links {
+.recipe {
     text-align: center;
-    margin: 30px;
+    margin-top: 10px;
 }
 
-.center-links a:link {
-    margin: 50px;
+a:link, a:visited {
+    background-color: #638889;
+    color: white;
+    padding: 14px 25px;
+    margin: 25px;
     text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 10px;
 }
 
-.links a:link {
-    text-decoration: none;
+.recipe {
+    margin-bottom: 10px;
 }
+
+
+
+
+
 
 
 
