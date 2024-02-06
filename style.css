@@ -79,6 +79,10 @@ li {
     margin-top: 10px;
 }
 
+.recipe {
+    margin-bottom: 10px;
+}
+
 a:link, a:visited {
     background-color: #638889;
     color: white;
@@ -90,9 +94,7 @@ a:link, a:visited {
     border-radius: 10px;
 }
 
-.recipe {
-    margin-bottom: 10px;
-}
+
 
 
 
