@@ -23,6 +23,7 @@ h1 {
 
 h2 {
     color: rgb(0, 173, 0);
+    margin-bottom: 50px
 }
 
 /* for Image */
@@ -76,23 +77,28 @@ li {
 .links,
 .recipe {
     text-align: center;
-    margin-top: 10px;
 }
 
-.recipe {
+.links {
     margin-bottom: 10px;
+    margin-top: 50px;
+}
+
+span {
+    display: block;
+    margin-top: 60px;
 }
 
 a:link, a:visited {
     background-color: #638889;
     color: white;
     padding: 14px 25px;
-    margin: 25px;
     text-decoration: none;
-    display: inline-block;
     font-weight: bold;
     border-radius: 10px;
+    margin: 25px;
 }
+
 
 
 
