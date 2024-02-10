@@ -95,7 +95,7 @@ li {
 
 .links {
     display: flex;
-    flex-basis: 300px;
+    flex-basis: 250px;
     flex-direction: column;
 }
 
