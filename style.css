@@ -45,10 +45,12 @@ h2 {
 }
 
 .components {
-    margin-left: 20px;
+    margin: 5px 20px 2px 20px;
 }
 
 .text-border {
+    display: flex;
+    flex-direction: column;
     background-color: #F9EFDB;
     margin: auto;
     border: none;
